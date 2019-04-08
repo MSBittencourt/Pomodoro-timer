@@ -1,0 +1,21 @@
+body{
+    justify-items: center;
+}
+
+.container {
+    display: grid;
+    justify-items: center; 
+    border:5px solid red;
+    width: 300px;
+    height: 400px;
+}
+
+button {
+    color: rgb(238, 68, 96);
+    
+}
+
+h1{
+    font-family: fantasy;
+    color: red;
+}
